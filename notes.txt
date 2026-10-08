@@ -1,3 +1,0 @@
-Name: Vlad
-Age: 15
-Language: Python
